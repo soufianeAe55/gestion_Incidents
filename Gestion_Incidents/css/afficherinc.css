@@ -1,0 +1,66 @@
+#page
+{
+	position: absolute;
+	top: -20px;
+	
+	width: 1375px;
+	height: 686px;
+	margin-left: -10px;
+	margin-bottom: -20px;
+	margin-top: -10px;
+	background-color: silver;
+	left: 11px;
+}
+#afficher
+{
+	position: absolute;
+	right:300px;
+	top:150px;
+	width: 900px;
+	height: 450px;
+	color: silver;
+	background-color: rgba(24,24,24,0.8);
+	opacity: 0.8;
+	
+}
+nav a:hover
+{
+color: silver;
+
+}
+nav a
+{
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    font-size: 1em;
+	color: maroon;
+	font-family: Comic Sans MS;
+}
+section form
+{
+position: absolute;
+right:300px;
+
+}
+#form1
+{
+	position: absolute;
+	right: -150px;
+	top: 1px;
+	width: 110px;
+}
+#la
+{
+	position: absolute;
+	top: 25px;
+	height: 0px;
+	width: 93px;
+	left: -443px;
+}
+#b1
+{
+	position: absolute;
+	right: 130px;
+	top: 25px;
+}

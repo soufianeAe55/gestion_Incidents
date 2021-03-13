@@ -1,0 +1,109 @@
+#blockpage
+{
+	position: absolute;
+	bottom: -310px;
+	left: -3px;
+	width: 1370px;
+	height: 950px;
+	background-color: silver;
+	
+}
+#espaceajoute
+{
+	position: absolute;
+	right:463px;
+	top:20px;
+	width: 491px;
+	height: 672px;
+	color: silver;
+	background-color: rgba(24,24,24,0.8);
+	opacity: 0.8;
+	
+}
+nav a:hover
+{
+color: silver;
+
+}
+nav a
+{
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    font-size: 1em;
+	color: maroon;
+	font-family: Comic Sans MS;
+}
+
+section form
+{
+
+position: absolute;
+right:200px;
+padding:200px;
+
+}
+section label
+{
+
+padding-left: 20px;
+}
+#form1
+{
+position: absolute;
+right:120px;
+}
+#form2
+{
+position: absolute;
+right:120px;
+
+}
+#form3
+{
+position: absolute;
+right:120px;
+
+}
+#form4
+{
+position: absolute;
+right:120px;
+
+}
+#form5
+{
+position: absolute;
+right:120px;
+
+}
+#form6
+{
+position: absolute;
+right:120px;
+
+}
+#form7
+{
+position: absolute;
+right:120px;
+
+}
+#form0
+{
+position: absolute;
+right:110px;
+
+}
+#form8
+{
+position: absolute;
+right:120px;
+
+}
+#b1
+{
+position: absolute;
+top:595px;
+right:120px;
+}
